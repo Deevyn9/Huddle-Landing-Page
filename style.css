@@ -276,6 +276,7 @@ footer .footer__left .footer__logo {
 .footer__phone p,
 .footer__email p {
   margin: 0;
+  color: white;
 }
 
 .footer__phone img,
